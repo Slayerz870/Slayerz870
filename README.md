@@ -27,7 +27,7 @@ I favor least-privilege operations, readable scripts, predictable outputs, safe 
 
 ## Connect
 
-- LinkedIn: [ADD_YOUR_LINKEDIN_URL](https://www.linkedin.com/in/paul-h-714537286/)
+- LinkedIn:(https://www.linkedin.com/in/paul-h-714537286/)
 - Resume: ADD_YOUR_RESUME_LINK
 
 > This profile documents personal projects and labs. Specific implementations and outcomes are described in each repository.
