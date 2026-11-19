@@ -16,7 +16,7 @@ IT professional with 20+ years of hands-on experience across enterprise desktop 
 
 | Project | Focus |
 | --- | --- |
-| [PowerShell IT Automation Toolkit](https://github.com/YOUR_USERNAME/powershell-it-automation) | Read-only workstation inventory and health reporting, with Pester tests |
+| [PowerShell IT Automation Toolkit](https://github.com/Slayerz870/powershell-it-automation) | Read-only workstation inventory and health reporting, with Pester tests |
 | Enterprise Active Directory Lab *(planned)* | Identity lifecycle, GPO, DNS, DHCP and deployment documentation |
 | Qubes OS Security Lab *(planned)* | Compartmentalized workflows and sanitized architecture diagrams |
 | Ubuntu Ollama AI Lab *(planned)* | Local model deployment, monitoring and reproducible setup |
